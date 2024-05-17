@@ -3,3 +3,9 @@ langchain
 streamlit
 huggingface_hub
 python-dotenv
+unstructured
+tiktoken
+pinecone-client
+pypdf
+pandas 
+numpy
