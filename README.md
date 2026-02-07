@@ -1,2 +1,2 @@
 # LangChain
- this repo is used to create own LLM and explore deployment and integration APIs of OpenAI API ANd GeminiPro API USing Langchain
+ this repo is used to explore Langchain Framework and multiple LLM models for different usecases.
